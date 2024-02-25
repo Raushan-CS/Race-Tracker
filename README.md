@@ -4,17 +4,6 @@ Race tracker app
 The Race tracker app simulates the progress of two players in a race. The idea is to demonstrate 
 basic concepts of Kotlin coroutines. A user can start, pause, or reset the race with buttons in the 
 UI.
-
-Pre-requisites
---------------
-* Experience with building apps using Jetpack Compose.
-* How to create and run a project in Android Studio.
-* Familiar with Kotlin coroutines
+![Race Tracker App](https://github.com/Raushan-CS/Race-Tracker/assets/157723697/68fd9797-80e6-45b8-9a1c-41d0361753ea)
 
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
